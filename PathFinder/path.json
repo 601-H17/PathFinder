@@ -1,0 +1,55 @@
+
+{
+    "type":"FeatureCollection",
+    "features":[
+        {
+            "type":"Feature",
+            "properties":{
+            },
+            "geometry":{
+                "type":"LineString",
+                "coordinates": [
+                 [ -71.2872233274, 46.78621173546 ],
+                 [ -71.28721919063, 46.78619460282 ],
+                 [ -71.28716692222, 46.78619896152 ],
+                 [ -71.28713902764, 46.78603924533 ],
+                 [ -71.28713778376, 46.78603212325 ],
+                 [ -71.28718639293, 46.78602709639 ],
+                 [ -71.28730097914, 46.78601524659 ],
+                 [ -71.28741647354, 46.78600330287 ],
+                 [ -71.28741371378, 46.78598912875 ]
+               ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Coors Field",
+                "amenity": "Baseball Stadium",
+                "popupContent": "This is where the Rockies play!"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.28722332740,
+                    46.78621173546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Coors Field",
+                "amenity": "Baseball Stadium",
+                "popupContent": "This is where the Rockies play!"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates":   [
+                                -71.28741371378,
+                                46.78598912875
+                                  ]
+            }
+        }
+    ]
+}
